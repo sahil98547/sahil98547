@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Sahil
 
 > Curious mind. Unfinished story. Purpose in progress.
 
@@ -39,9 +39,9 @@ I love turning ideas into code and learning something new every day.
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🧑‍💻 [Portfolio](https://yourportfolio.com) *(if available)*
-- 📬 Email: yourname@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahil00/)
+- 🧑‍💻 [Leetcode]([https://yourportfolio.com](https://leetcode.com/u/sahil_Hacker/))
+- 📬 Email: sa98547@gmail.com
 
 ---
 
