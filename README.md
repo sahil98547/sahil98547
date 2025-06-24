@@ -40,7 +40,7 @@ I love turning ideas into code and learning something new every day.
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahil00/)
-- 🧑‍💻 [Leetcode]([https://yourportfolio.com](https://leetcode.com/u/sahil_Hacker/))
+- 🧑‍💻 [Leetcode](https://leetcode.com/u/sahil_Hacker/)
 - 📬 Email: sa98547@gmail.com
 
 ---
